@@ -11,7 +11,7 @@ When a copied reference breaks, check here first: `main` is always the latest, s
 
 | Reference | What it does | Last verified |
 |---|---|---|
-| [aichat](aichat/) | Ask DeepSeek, Doubao, Kimi and Yuanbao on their websites and get the answer, cited pages and search queries | 2026-10-14 |
+| [aichat](aichat/) | Ask ChatGPT, DeepSeek, Doubao, Kimi and Yuanbao on their websites and get the answer, cited pages and search queries | 2026-10-14 |
 
 ## Layout
 

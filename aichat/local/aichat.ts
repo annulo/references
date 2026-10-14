@@ -1,4 +1,4 @@
-// 在 AI 网页（DeepSeek、豆包、Kimi、元宝…）上提问，拿回答、引用的网页、搜索词。
+// 在 AI 网页（ChatGPT、DeepSeek、豆包、Kimi、元宝…）上提问，拿回答、引用的网页、搜索词。
 // 来自 https://github.com/annulo/references 的 aichat/（怎么用见 README.md，坏了怎么修见 MAINTAIN.md）。
 //
 //   annulo run aichat.ask --input '{"site":"deepseek","question":"有哪些好用的外贸建站工具？"}'
@@ -7,12 +7,13 @@
 // 默认用用户自己的 Chrome（profile: '@user'，要装 Annulo 插件），用的是用户在那里登好的账号。
 
 import { type Answer, fail } from './_aichat_common'
+import { CHATGPT } from './_aichat_chatgpt'
 import { DEEPSEEK } from './_aichat_deepseek'
 import { DOUBAO } from './_aichat_doubao'
 import { KIMI } from './_aichat_kimi'
 import { YUANBAO } from './_aichat_yuanbao'
 
-const SITES: any[] = [DEEPSEEK, DOUBAO, KIMI, YUANBAO]
+const SITES: any[] = [CHATGPT, DEEPSEEK, DOUBAO, KIMI, YUANBAO]
 
 /** 支持哪些网站，每个最近一次验证可用的日期 */
 export async function sites() {

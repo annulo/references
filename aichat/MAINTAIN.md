@@ -79,6 +79,17 @@ Kimi 是 `<REF>cite✦tools://web_search:K#N:~:text=…</REF>`，第 K 次搜索
 
 ## 各网站的现状
 
+### ChatGPT（chatgpt.com）
+
+- 入口 `https://chatgpt.com/?temporary-chat=true`：临时对话，不进用户的历史记录、不用用户的记忆。
+- **回答的流抓不到**（不是普通 HTTP 流，`b.listen` 等不到完成），所以回答完以后读整段对话：页面里 `fetch('/api/auth/session')` 拿 `accessToken`，
+  再 `GET /backend-api/conversation/<id>`（地址从 `/c/<id>` 来），每 3 秒读一次，最后一条 assistant 文本消息 `status=finished_successfully` 而且是 `current_node` 就是答完了。
+- 没登录也能聊天，但没有 `accessToken`：按这个判断 `login`。
+- 正文里的标记是私有区字符 `\ue200类型\ue202内容\ue201`：`cite` 对应 `metadata.content_references` 里 `matched_text` 同名的 `grouped_webpages`；`entity` 取名字；别的（配图）去掉。
+  网页在 tool 消息的 `metadata.search_result_groups`。搜索词对话里没有。
+- 网址带 `utm_source=chatgpt.com`，去掉了再比较。
+- fixture 是对话 JSON 去掉账号字段后的样子（只留 mapping 里的消息和 `search_result_groups`、`content_references`）。
+
 ### DeepSeek（chat.deepseek.com）
 
 - 入口 `https://chat.deepseek.com/` 就是新对话；没登录会跳到 `/sign_in`。
