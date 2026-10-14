@@ -1,0 +1,987 @@
+data: {"type": "text"}
+
+data: {"type": "searchGuid", "docs": [{"index": 1, "title": "Shopify vs BigCommerce vs WooCommerce: My Verdict for 2026", "url": "https://ecommerce-platforms.com/?p=82740", "web_site_name": "ecommerce-platforms", "quote": "Final Recommendation Use Case Best Platform Beginner store owners Shopify Fast-growing DTC brands Shopify B2B or international selling BigCommerce SEO..."}, {"index": 2, "title": "从0搭一个询盘独立站:10步落地清单  建站平台/智能体套餐横评", "url": "http://mp.weixin.qq.com/s?src=11&timestamp=1791952307&ver=7025&signature=ubf5HApLFLXwTeIJaI16sEyIm7bmFzY*gd-*ZSZvM1BoznXZy7GJEEhfmDwT4oOBQS*APSRIY0VRzLQmcjeBhGGtEUIp-Ahs5WeuiFgQ*cadHuG3cb40N5ezMmrK7SyW&new=1", "web_site_name": "汽配双站联动出海", "quote": "从0搭一个询盘独立站:10步落地清单 + 建站平台/智能体套餐横评｡如果没有智能体,这 9 条要么石..."}, {"index": 3, "title": "2026跨境独立站平台选型对比SaaS / 开源9 套主流方案", "url": "https://blog.csdn.net/2600_96788429/article/details/164114743", "web_site_name": "CSDN", "quote": "2026跨境独立站平台选型对比|SaaS / 开源|9 套主流方案 CSDN博客｡国内访问后台慢;平..."}, {"index": 4, "title": "Shopify vs WooCommerce vs BigCommerce: The Definitive Ecommerce Platform Comparison", "url": "https://skyloomstudios.com/blog/shopify-vs-woocommerce-vs-bigcommerce", "web_site_name": "skyloomstudios", "quote": "best of the three for international DTC. For deep multi-region needs,Shopify Plus with expansion stores allows separate catalogs per market. WooCommer..."}, {"index": 5, "title": "国内有哪些好用的独立站建站平台?", "url": "https://www.znid.cn/article/69478.html", "web_site_name": "znid", "quote": "智能建站｡1. Shopify 这是全球最大的独立站SaaS平台,绝对的行业标杆｡它的强大在于其生态..."}, {"index": 6, "title": "2026 外贸独立站建站平台最佳产品推荐", "url": "https://www.dcshope.com/", "web_site_name": "dcshope", "quote": "�� 2026 最佳推荐总结 · ✅ 新手 / 工厂 / B2B / 多店 ￫ dcshope(3..."}, {"index": 7, "title": "Shopify vs BigCommerce vs WooCommerce 2026", "url": "https://stablecommerce.ai/blog/shopify-vs-bigcommerce-vs-woocommerce", "web_site_name": "stablecommerce", "quote": "BigCommerce,and WooCommerce's published pricing pages,plan documentation,and fee schedules,cross-checked in July 2026,alongside patterns from the 1,00..."}, {"index": 8, "title": "7款跨境独立站建站系统横向评测2026卖家选型参考", "url": "https://www.shushangyun.com/article-42061.html", "web_site_name": "数商云", "quote": "7款跨境独立站建站系统横向评测|2026卖家选型参考 数商云｡最佳适配卖家 拥有专职开发人员､轻量品牌展示站､小体..."}, {"index": 9, "title": "The Best Ecommerce Platform for Your Online Store in 2026", "url": "https://ecommercemanager.co/uncategorized/the-best-ecommerce-platform-for-your-online-store-2", "web_site_name": "ecommercemanager", "quote": "Visit BigCommerce ￫ 3. WooCommerce The WordPress..."}, {"index": 10, "title": "独立站平台到底怎么选?新手小白看完这篇就懂了!", "url": "https://www.znid.cn/article/40806.html", "web_site_name": "znid", "quote": "分享外贸运营､独立站搭建独立站推广､外贸邮箱安全｡外贸建站优惠､独立站推广外贸企业邮箱､独立站运营..."}, {"index": 11, "title": "2026跨境电商独立站建站平台盘点:11款主流工具深度对比(优缺点费用)", "url": "https://www.adspower.net/blog/cross-border-ecommerce-independent-sites", "web_site_name": "adspower", "quote": "2026跨境电商独立站建站平台盘点:11款主流工具深度对比(优缺点+费用) AdsPower指纹浏览..."}, {"index": 12, "title": "Shopify vs Magento vs WooCommerce vs BigCommerce:2026跨境独立站平台终极对比指南", "url": "https://eastdigi.com/shopify-vs-magento-vs-woocommerce-vs-bigcommerce-2026-cross-border", "web_site_name": "eastdigi", "quote": "但市场份额不等于场景适配度跨境B2B卖家与DTC品牌的需求差异巨大｡维度 Shopify / Shopify..."}, {"index": 13, "title": "独立站建站平台选型指南:八大主流系统成本与适用场景对比", "url": "https://bbs.csdn.net/weixin_33960567/article/details/100277343", "web_site_name": "CSDN", "quote": "Ueeshop 托管SaaS/定制 套餐制,整体偏外贸实用路线 传统外贸转型B2C 操作逻辑务实,模..."}, {"index": 14, "title": "做外贸独立站,究竟该用哪个软件?一篇讲透所有主流选择", "url": "https://www.znid.cn/article/62641.html", "web_site_name": "znid", "quote": "主要短板 适合人群 :--- :--- :--- :--- :--- Shopify SaaS平台..."}, {"index": 15, "title": "Best ecommerce platform for UK retailers in 2026", "url": "https://digitalmunkey.co.uk/best-ecommerce-platform-2026", "web_site_name": "digitalmunkey", "quote": "Best ecommerce platform for UK retailers in 2026 Your ecommerce platform isn't a 'website choice' it's the operating system for your entire commerci..."}, {"index": 16, "title": "2026跨境独立站系统怎么选?Shopify､店匠､Ueeshop等主流平台成本对比与选型指南", "url": "https://blog.csdn.net/weixin_32308101/article/details/164568762", "web_site_name": "CSDN", "quote": "国内生态对接好 插件生态相对少 Ueeshop SaaS 按年收,月均几百元 外贸工厂､B2B 老牌稳定､..."}, {"index": 17, "title": "跨境独立站建站系统有哪些?主流平台怎么选?", "url": "https://www.idddd.com/home/20261002/51525.html", "web_site_name": "创业网", "quote": "多币种､多语言和复杂定价规则,但对服务器性能要求高,开发维护成本不低｡PrestaShop和Open..."}, {"index": 18, "title": "The 5 Leading E-commerce Platforms in 2026: A Definitive Global Comparison", "url": "https://engineering.zooz.com/@luisgcastillo40s/the-5-leading-e-commerce-platforms-in-2026-a-definitive-global-comparison-62ee2d981650", "web_site_name": "zooz", "quote": "multiple global warehouses. 5. Wix eCommerce: The Leader in Design and Visual Simplicity Wix has evolved in 2026 into much more than a website builder..."}, {"index": 19, "title": "外贸网站建设公司选哪家?2026 选型指南  TOP 5 实测推荐", "url": "https://www.52by.com/article/225517", "web_site_name": "邦阅", "quote": "★★★ ★★★ ⭐⭐⭐⭐(适合中小外贸) TOP 4 SHOPLINE / 店匠(国内独立站专项)..."}, {"index": 20, "title": "外贸独立站怎么选?一份从0到1的超详细避坑指南(2026版)", "url": "https://www.wecx.com/viewnews_190744.html", "web_site_name": "wecx", "quote": "SaaS建站平台 Shopify,Big。"}, {"index": 21, "title": "独立站建站选型:Shopify/WooCommerce/BigCommerce/Adobe Commerce 四档定位,加载快1秒转化2%", "url": "http://mp.weixin.qq.com/s?src=11&timestamp=1791952308&ver=7025&signature=9YCd*4e2-q9fcWPVva8TBSolVnafOt5oU9nzeI8opJStHBUldbybtDPli463dDyrj9Sd0r5lpy7zJGfqM1vPYlYIcfbMUOEGjMJP6DIK1X-tY6Q-jTRwOdiryaCPSifn&new=1", "web_site_name": "汉全出海", "quote": "独立站建站选型:Shopify/WooCommerce/BigCommerce/Adobe Comm..."}]}
+
+data: {"type": "text", "msg": "202"}
+
+data: {"type": "text", "msg": "6 年"}
+
+data: {"type": "text", "msg": "外贸独立"}
+
+data: {"type": "text", "msg": "站建"}
+
+data: {"type": "text", "msg": "站工具"}
+
+data: {"type": "text", "msg": "里"}
+
+data: {"type": "text", "msg": "，按“"}
+
+data: {"type": "text", "msg": "**B"}
+
+data: {"type": "text", "msg": "2C"}
+
+data: {"type": "text", "msg": "/D"}
+
+data: {"type": "text", "msg": "TC 全球化"}
+
+data: {"type": "text", "msg": "、B"}
+
+data: {"type": "text", "msg": "2B/"}
+
+data: {"type": "text", "msg": "中国"}
+
+data: {"type": "text", "msg": "卖家"}
+
+data: {"type": "text", "msg": "本地"}
+
+data: {"type": "text", "msg": "化、技术"}
+
+data: {"type": "text", "msg": "型"}
+
+data: {"type": "text", "msg": "/"}
+
+data: {"type": "text", "msg": "SEO 自主"}
+
+data: {"type": "text", "msg": "可控"}
+
+data: {"type": "text", "msg": "**”三条"}
+
+data: {"type": "text", "msg": "主线"}
+
+data: {"type": "text", "msg": "，最"}
+
+data: {"type": "text", "msg": "值得"}
+
+data: {"type": "text", "msg": "看"}
+
+data: {"type": "text", "msg": "这"}
+
+data: {"type": "text", "msg": " 3 "}
+
+data: {"type": "text", "msg": "个：\n\n"}
+
+data: {"type": "text", "msg": "---\n\n"}
+
+data: {"type": "text", "msg": "###"}
+
+data: {"type": "text", "msg": " 1."}
+
+data: {"type": "text", "msg": " Shopify ——"}
+
+data: {"type": "text", "msg": " 做"}
+
+data: {"type": "text", "msg": " B"}
+
+data: {"type": "text", "msg": "2C /"}
+
+data: {"type": "text", "msg": " DTC "}
+
+data: {"type": "text", "msg": "品牌出海的"}
+
+data: {"type": "text", "msg": "默认选择"}
+
+data: {"type": "text", "msg": "\n**"}
+
+data: {"type": "text", "msg": "[](@mark_underline=1)"}
+
+data: {"type": "text", "msg": "理由**\n-"}
+
+data: {"type": "text", "msg": " 托管"}
+
+data: {"type": "text", "msg": "型"}
+
+data: {"type": "text", "msg": " SaaS，"}
+
+data: {"type": "text", "msg": "服务器"}
+
+data: {"type": "text", "msg": "、"}
+
+data: {"type": "text", "msg": "SSL、结账"}
+
+data: {"type": "text", "msg": "、支付、"}
+
+data: {"type": "text", "msg": "物流对接"}
+
+data: {"type": "text", "msg": "都"}
+
+data: {"type": "text", "msg": "打包"}
+
+data: {"type": "text", "msg": "好"}
+
+data: {"type": "text", "msg": "，几天"}
+
+data: {"type": "text", "msg": "能"}
+
+data: {"type": "text", "msg": "上线"}
+
+data: {"type": "text", "msg": "。\n"}
+
+data: {"type": "text", "msg": "- 应用"}
+
+data: {"type": "text", "msg": "生态最大"}
+
+data: {"type": "text", "msg": "（800"}
+
+data: {"type": "text", "msg": "0–"}
+
+data: {"type": "text", "msg": "10000"}
+
+data: {"type": "text", "msg": "+ "}
+
+data: {"type": "text", "msg": "应用），"}
+
+data: {"type": "text", "msg": "T"}
+
+data: {"type": "text", "msg": "ikTok /"}
+
+data: {"type": "text", "msg": " Meta"}
+
+data: {"type": "text", "msg": " / Google"}
+
+data: {"type": "text", "msg": " / K"}
+
+data: {"type": "text", "msg": "laviyo"}
+
+data: {"type": "text", "msg": " / 邮件"}
+
+data: {"type": "text", "msg": "营销 / "}
+
+data: {"type": "text", "msg": "弃"}
+
+data: {"type": "text", "msg": "购挽回"}
+
+data: {"type": "text", "msg": "都能"}
+
+data: {"type": "text", "msg": "接。"}
+
+data: {"type": "text", "msg": "[](@mark_underline=2)"}
+
+data: {"type": "text", "msg": "[citation:1]"}
+
+data: {"type": "text", "msg": "[](@mark_underline=3)"}
+
+data: {"type": "text", "msg": "[](@mark_underline=4)"}
+
+data: {"type": "text", "msg": "[citation:4]"}
+
+data: {"type": "text", "msg": "[](@mark_underline=5)"}
+
+data: {"type": "text", "msg": "\n"}
+
+data: {"type": "text", "msg": "[](@mark_underline=6)"}
+
+data: {"type": "text", "msg": "- Shop"}
+
+data: {"type": "text", "msg": "ify Markets"}
+
+data: {"type": "text", "msg": " "}
+
+data: {"type": "text", "msg": "支持"}
+
+data: {"type": "text", "msg": "多币种"}
+
+data: {"type": "text", "msg": "、关税"}
+
+data: {"type": "text", "msg": "估算"}
+
+data: {"type": "text", "msg": "、本地"}
+
+data: {"type": "text", "msg": "化域名"}
+
+data: {"type": "text", "msg": "，适合欧美"}
+
+data: {"type": "text", "msg": "为主的"}
+
+data: {"type": "text", "msg": " DTC "}
+
+data: {"type": "text", "msg": "品牌。"}
+
+data: {"type": "text", "msg": "\n- "}
+
+data: {"type": "text", "msg": "缺点是用"}
+
+data: {"type": "text", "msg": "非"}
+
+data: {"type": "text", "msg": " Shopify Payments"}
+
+data: {"type": "text", "msg": " 有"}
+
+data: {"type": "text", "msg": " 0."}
+
+data: {"type": "text", "msg": "5%"}
+
+data: {"type": "text", "msg": "–2%"}
+
+data: {"type": "text", "msg": " 平台"}
+
+data: {"type": "text", "msg": "交易费，"}
+
+data: {"type": "text", "msg": "B"}
+
+data: {"type": "text", "msg": "2B "}
+
+data: {"type": "text", "msg": "询盘/"}
+
+data: {"type": "text", "msg": "阶梯报价要"}
+
+data: {"type": "text", "msg": "靠"}
+
+data: {"type": "text", "msg": "插件或 Shop"}
+
+data: {"type": "text", "msg": "ify Plus。\n\n"}
+
+data: {"type": "text", "msg": "[](@mark_underline=7)"}
+
+data: {"type": "text", "msg": "**适合"}
+
+data: {"type": "text", "msg": "**："}
+
+data: {"type": "text", "msg": "跨境"}
+
+data: {"type": "text", "msg": "零售"}
+
+data: {"type": "text", "msg": "、"}
+
+data: {"type": "text", "msg": "D"}
+
+data: {"type": "text", "msg": "TC "}
+
+data: {"type": "text", "msg": "精品站"}
+
+data: {"type": "text", "msg": "、想"}
+
+data: {"type": "text", "msg": "快速规模化"}
+
+data: {"type": "text", "msg": "、"}
+
+data: {"type": "text", "msg": "团队"}
+
+data: {"type": "text", "msg": "无"}
+
+data: {"type": "text", "msg": "开发"}
+
+data: {"type": "text", "msg": "资源"}
+
+data: {"type": "text", "msg": "。"}
+
+data: {"type": "text", "msg": "  \n**"}
+
+data: {"type": "text", "msg": "来源**：E"}
+
+data: {"type": "text", "msg": "commerce Platform"}
+
+data: {"type": "text", "msg": "s 202"}
+
+data: {"type": "text", "msg": "6 对比"}
+
+data: {"type": "text", "msg": "、"}
+
+data: {"type": "text", "msg": "Sky"}
+
+data: {"type": "text", "msg": "loom Studios"}
+
+data: {"type": "text", "msg": " "}
+
+data: {"type": "text", "msg": "2026 Shop"}
+
+data: {"type": "text", "msg": "ify vs"}
+
+data: {"type": "text", "msg": " W"}
+
+data: {"type": "text", "msg": "ooCommerce vs"}
+
+data: {"type": "text", "msg": " BigCommerce、"}
+
+data: {"type": "text", "msg": "Ads"}
+
+data: {"type": "text", "msg": "Power 202"}
+
+data: {"type": "text", "msg": "6 独立"}
+
+data: {"type": "text", "msg": "站平台盘点"}
+
+data: {"type": "text", "msg": "。"}
+
+data: {"type": "text", "msg": "[](@mark_underline=8)"}
+
+data: {"type": "text", "msg": "[citation:1]"}
+
+data: {"type": "text", "msg": "[](@mark_underline=9)"}
+
+data: {"type": "text", "msg": "[](@mark_underline=10)"}
+
+data: {"type": "text", "msg": "[citation:4]"}
+
+data: {"type": "text", "msg": "[](@mark_underline=11)"}
+
+data: {"type": "text", "msg": "[](@mark_underline=12)"}
+
+data: {"type": "text", "msg": "[citation:11]"}
+
+data: {"type": "text", "msg": "[](@mark_underline=13)"}
+
+data: {"type": "text", "msg": "\n\n---\n\n###"}
+
+data: {"type": "text", "msg": "[](@mark_underline=14)"}
+
+data: {"type": "text", "msg": " 2."}
+
+data: {"type": "text", "msg": " Ueeshop"}
+
+data: {"type": "text", "msg": " / SH"}
+
+data: {"type": "text", "msg": "OPLINE"}
+
+data: {"type": "text", "msg": " / 店"}
+
+data: {"type": "text", "msg": "匠里"}
+
+data: {"type": "text", "msg": "更"}
+
+data: {"type": "text", "msg": "推荐：**"}
+
+data: {"type": "text", "msg": "Ueeshop"}
+
+data: {"type": "text", "msg": "**（"}
+
+data: {"type": "text", "msg": "传统"}
+
+data: {"type": "text", "msg": "外贸/B"}
+
+data: {"type": "text", "msg": "2B "}
+
+data: {"type": "text", "msg": "场景"}
+
+data: {"type": "text", "msg": "）\n"}
+
+data: {"type": "text", "msg": "**理由**\n"}
+
+data: {"type": "text", "msg": "- 国产"}
+
+data: {"type": "text", "msg": "外贸"}
+
+data: {"type": "text", "msg": "建"}
+
+data: {"type": "text", "msg": "站 SaaS"}
+
+data: {"type": "text", "msg": " 里，"}
+
+data: {"type": "text", "msg": "Ueeshop"}
+
+data: {"type": "text", "msg": " 更"}
+
+data: {"type": "text", "msg": "偏“传统"}
+
+data: {"type": "text", "msg": "外贸”："}
+
+data: {"type": "text", "msg": "多"}
+
+data: {"type": "text", "msg": "语言 SEO"}
+
+data: {"type": "text", "msg": "、在线"}
+
+data: {"type": "text", "msg": "询盘、"}
+
+data: {"type": "text", "msg": "What"}
+
+data: {"type": "text", "msg": "sApp "}
+
+data: {"type": "text", "msg": "对接、B"}
+
+data: {"type": "text", "msg": "2B "}
+
+data: {"type": "text", "msg": "展示"}
+
+data: {"type": "text", "msg": "、批发"}
+
+data: {"type": "text", "msg": "/"}
+
+data: {"type": "text", "msg": "询"}
+
+data: {"type": "text", "msg": "盘表单"}
+
+data: {"type": "text", "msg": "更"}
+
+data: {"type": "text", "msg": "顺手。"}
+
+data: {"type": "text", "msg": "\n- "}
+
+data: {"type": "text", "msg": "[](@mark_underline=15)"}
+
+data: {"type": "text", "msg": "中文后台"}
+
+data: {"type": "text", "msg": " +"}
+
+data: {"type": "text", "msg": " 国内"}
+
+data: {"type": "text", "msg": "一对一"}
+
+data: {"type": "text", "msg": "顾问服务"}
+
+data: {"type": "text", "msg": "，工厂"}
+
+data: {"type": "text", "msg": "、"}
+
+data: {"type": "text", "msg": "工"}
+
+data: {"type": "text", "msg": "贸一体"}
+
+data: {"type": "text", "msg": "、机械"}
+
+data: {"type": "text", "msg": "/"}
+
+data: {"type": "text", "msg": "建材"}
+
+data: {"type": "text", "msg": "/汽"}
+
+data: {"type": "text", "msg": "配类"}
+
+data: {"type": "text", "msg": "卖家沟通"}
+
+data: {"type": "text", "msg": "成本低"}
+
+data: {"type": "text", "msg": "。"}
+
+data: {"type": "text", "msg": "\n- "}
+
+data: {"type": "text", "msg": "相比 Shopify"}
+
+data: {"type": "text", "msg": "："}
+
+data: {"type": "text", "msg": "B"}
+
+data: {"type": "text", "msg": "2B "}
+
+data: {"type": "text", "msg": "原生"}
+
+data: {"type": "text", "msg": "能力更强"}
+
+data: {"type": "text", "msg": "；"}
+
+data: {"type": "text", "msg": "相比"}
+
+data: {"type": "text", "msg": " W"}
+
+data: {"type": "text", "msg": "ooCommerce："}
+
+data: {"type": "text", "msg": "不用"}
+
+data: {"type": "text", "msg": "自己管"}
+
+data: {"type": "text", "msg": "服务器和安全"}
+
+data: {"type": "text", "msg": "。\n"}
+
+data: {"type": "text", "msg": "- 缺点是"}
+
+data: {"type": "text", "msg": "海外"}
+
+data: {"type": "text", "msg": "应用"}
+
+data: {"type": "text", "msg": "生态、"}
+
+data: {"type": "text", "msg": "潮"}
+
+data: {"type": "text", "msg": "牌级"}
+
+data: {"type": "text", "msg": "视觉模板"}
+
+data: {"type": "text", "msg": "、海外"}
+
+data: {"type": "text", "msg": "消费者"}
+
+data: {"type": "text", "msg": "品牌"}
+
+data: {"type": "text", "msg": "认知不如"}
+
+data: {"type": "text", "msg": " Shopify。\n\n"}
+
+data: {"type": "text", "msg": "[](@mark_underline=16)"}
+
+data: {"type": "text", "msg": "**适合**："}
+
+data: {"type": "text", "msg": "外贸"}
+
+data: {"type": "text", "msg": "工厂"}
+
+data: {"type": "text", "msg": "、B2"}
+
+data: {"type": "text", "msg": "B 询"}
+
+data: {"type": "text", "msg": "盘站"}
+
+data: {"type": "text", "msg": "、小额"}
+
+data: {"type": "text", "msg": "批发、老板"}
+
+data: {"type": "text", "msg": "/"}
+
+data: {"type": "text", "msg": "业务"}
+
+data: {"type": "text", "msg": "岗不懂"}
+
+data: {"type": "text", "msg": "英文后台"}
+
+data: {"type": "text", "msg": "。"}
+
+data: {"type": "text", "msg": "  \n**"}
+
+data: {"type": "text", "msg": "来源**：202"}
+
+data: {"type": "text", "msg": "6 国内"}
+
+data: {"type": "text", "msg": "独立"}
+
+data: {"type": "text", "msg": "站横"}
+
+data: {"type": "text", "msg": "评（"}
+
+data: {"type": "text", "msg": "Ueeshop"}
+
+data: {"type": "text", "msg": " /"}
+
+data: {"type": "text", "msg": " SH"}
+
+data: {"type": "text", "msg": "OPLINE /"}
+
+data: {"type": "text", "msg": " 店匠"}
+
+data: {"type": "text", "msg": "对比"}
+
+data: {"type": "text", "msg": "）、邦"}
+
+data: {"type": "text", "msg": "阅 "}
+
+data: {"type": "text", "msg": "2026 "}
+
+data: {"type": "text", "msg": "外贸建"}
+
+data: {"type": "text", "msg": "站选型"}
+
+data: {"type": "text", "msg": "。"}
+
+data: {"type": "text", "msg": "[](@mark_underline=17)"}
+
+data: {"type": "text", "msg": "[citation:2]"}
+
+data: {"type": "text", "msg": "[](@mark_underline=18)"}
+
+data: {"type": "text", "msg": "[](@mark_underline=19)"}
+
+data: {"type": "text", "msg": "[citation:19]"}
+
+data: {"type": "text", "msg": "[](@mark_underline=20)"}
+
+data: {"type": "text", "msg": "\n\n"}
+
+data: {"type": "text", "msg": "[](@mark_underline=21)"}
+
+data: {"type": "text", "msg": ">"}
+
+data: {"type": "text", "msg": " 如果"}
+
+data: {"type": "text", "msg": "目标"}
+
+data: {"type": "text", "msg": "市场是东南亚"}
+
+data: {"type": "text", "msg": "/港"}
+
+data: {"type": "text", "msg": "台、重"}
+
+data: {"type": "text", "msg": "社"}
+
+data: {"type": "text", "msg": "媒闭环"}
+
+data: {"type": "text", "msg": "，可"}
+
+data: {"type": "text", "msg": "换成"}
+
+data: {"type": "text", "msg": " **"}
+
+data: {"type": "text", "msg": "SHOPLINE"}
+
+data: {"type": "text", "msg": "**；如果"}
+
+data: {"type": "text", "msg": "重"}
+
+data: {"type": "text", "msg": " B2C"}
+
+data: {"type": "text", "msg": " 直播"}
+
+data: {"type": "text", "msg": "和"}
+
+data: {"type": "text", "msg": "国内"}
+
+data: {"type": "text", "msg": "供应链"}
+
+data: {"type": "text", "msg": "，可"}
+
+data: {"type": "text", "msg": "看 **"}
+
+data: {"type": "text", "msg": "店匠 Sh"}
+
+data: {"type": "text", "msg": "oplaz"}
+
+data: {"type": "text", "msg": "za**。"}
+
+data: {"type": "text", "msg": "\n\n---\n\n###"}
+
+data: {"type": "text", "msg": " 3."}
+
+data: {"type": "text", "msg": " WordPress + W"}
+
+data: {"type": "text", "msg": "ooCommerce ——"}
+
+data: {"type": "text", "msg": " 有"}
+
+data: {"type": "text", "msg": "技术资源"}
+
+data: {"type": "text", "msg": "、"}
+
+data: {"type": "text", "msg": "靠"}
+
+data: {"type": "text", "msg": " Google"}
+
+data: {"type": "text", "msg": " "}
+
+data: {"type": "text", "msg": "内容"}
+
+data: {"type": "text", "msg": "/"}
+
+data: {"type": "text", "msg": "SEO 获"}
+
+data: {"type": "text", "msg": "客的首选"}
+
+data: {"type": "text", "msg": "\n**理由"}
+
+data: {"type": "text", "msg": "[](@mark_underline=22)"}
+
+data: {"type": "text", "msg": "**\n- "}
+
+data: {"type": "text", "msg": "完全开源"}
+
+data: {"type": "text", "msg": "，"}
+
+data: {"type": "text", "msg": "无"}
+
+data: {"type": "text", "msg": "平台"}
+
+data: {"type": "text", "msg": "抽"}
+
+data: {"type": "text", "msg": "成，"}
+
+data: {"type": "text", "msg": "数据、"}
+
+data: {"type": "text", "msg": "代码、落地"}
+
+data: {"type": "text", "msg": "页、"}
+
+data: {"type": "text", "msg": "博客"}
+
+data: {"type": "text", "msg": "、"}
+
+data: {"type": "text", "msg": "Schema"}
+
+data: {"type": "text", "msg": "、"}
+
+data: {"type": "text", "msg": "多"}
+
+data: {"type": "text", "msg": "语言 SEO"}
+
+data: {"type": "text", "msg": " 全"}
+
+data: {"type": "text", "msg": "自主"}
+
+data: {"type": "text", "msg": "。\n-"}
+
+data: {"type": "text", "msg": " WordPress"}
+
+data: {"type": "text", "msg": " 内容"}
+
+data: {"type": "text", "msg": "生态 +"}
+
+data: {"type": "text", "msg": " Rank"}
+
+data: {"type": "text", "msg": " Math"}
+
+data: {"type": "text", "msg": " / Yo"}
+
+data: {"type": "text", "msg": "ast"}
+
+data: {"type": "text", "msg": " +"}
+
+data: {"type": "text", "msg": " WP"}
+
+data: {"type": "text", "msg": "ML"}
+
+data: {"type": "text", "msg": " /"}
+
+data: {"type": "text", "msg": " Polylang"}
+
+data: {"type": "text", "msg": "，"}
+
+data: {"type": "text", "msg": "做"}
+
+data: {"type": "text", "msg": "“"}
+
+data: {"type": "text", "msg": "文章"}
+
+data: {"type": "text", "msg": "引流"}
+
+data: {"type": "text", "msg": " →"}
+
+data: {"type": "text", "msg": " 产品"}
+
+data: {"type": "text", "msg": "页转化"}
+
+data: {"type": "text", "msg": " →"}
+
+data: {"type": "text", "msg": " 询"}
+
+data: {"type": "text", "msg": "盘/下单"}
+
+data: {"type": "text", "msg": "”最"}
+
+data: {"type": "text", "msg": "灵活"}
+
+data: {"type": "text", "msg": "。\n"}
+
+data: {"type": "text", "msg": "[](@mark_underline=23)"}
+
+data: {"type": "text", "msg": "- 插件"}
+
+data: {"type": "text", "msg": "海量"}
+
+data: {"type": "text", "msg": "，但"}
+
+data: {"type": "text", "msg": "主机"}
+
+data: {"type": "text", "msg": "、"}
+
+data: {"type": "text", "msg": "缓存"}
+
+data: {"type": "text", "msg": "、安全补"}
+
+data: {"type": "text", "msg": "丁、插件"}
+
+data: {"type": "text", "msg": "冲突都要"}
+
+data: {"type": "text", "msg": "自己扛；"}
+
+data: {"type": "text", "msg": "高"}
+
+data: {"type": "text", "msg": "定制"}
+
+data: {"type": "text", "msg": "需要"}
+
+data: {"type": "text", "msg": "开发。"}
+
+data: {"type": "text", "msg": "\n- "}
+
+data: {"type": "text", "msg": "2026 "}
+
+data: {"type": "text", "msg": "年 G"}
+
+data: {"type": "text", "msg": "EO/AI"}
+
+data: {"type": "text", "msg": " 搜索时代"}
+
+data: {"type": "text", "msg": "，W"}
+
+data: {"type": "text", "msg": "ooCommerce "}
+
+data: {"type": "text", "msg": "的结构化数据和"}
+
+data: {"type": "text", "msg": "内容控制"}
+
+data: {"type": "text", "msg": "上限"}
+
+data: {"type": "text", "msg": "最高"}
+
+data: {"type": "text", "msg": "。\n\n"}
+
+data: {"type": "text", "msg": "**适合**："}
+
+data: {"type": "text", "msg": "有技术"}
+
+data: {"type": "text", "msg": "/外包"}
+
+data: {"type": "text", "msg": "团队"}
+
+data: {"type": "text", "msg": "、做"}
+
+data: {"type": "text", "msg": "谷歌"}
+
+data: {"type": "text", "msg": " SEO"}
+
+data: {"type": "text", "msg": "、"}
+
+data: {"type": "text", "msg": "内容站+"}
+
+data: {"type": "text", "msg": "独立"}
+
+data: {"type": "text", "msg": "站、长期"}
+
+data: {"type": "text", "msg": "品牌"}
+
+data: {"type": "text", "msg": "、不想"}
+
+data: {"type": "text", "msg": "被 S"}
+
+data: {"type": "text", "msg": "aaS 绑"}
+
+data: {"type": "text", "msg": "死。  \n"}
+
+data: {"type": "text", "msg": "[](@mark_underline=24)"}
+
+data: {"type": "text", "msg": "**来源**："}
+
+data: {"type": "text", "msg": "StableCommerce "}
+
+data: {"type": "text", "msg": "2026 "}
+
+data: {"type": "text", "msg": "对比、E"}
+
+data: {"type": "text", "msg": "commerce Manager"}
+
+data: {"type": "text", "msg": " 2026"}
+
+data: {"type": "text", "msg": " 平台评"}
+
+data: {"type": "text", "msg": "测、Sky"}
+
+data: {"type": "text", "msg": "loom Studios"}
+
+data: {"type": "text", "msg": " 202"}
+
+data: {"type": "text", "msg": "6 对比"}
+
+data: {"type": "text", "msg": "。"}
+
+data: {"type": "text", "msg": "[](@mark_underline=25)"}
+
+data: {"type": "text", "msg": "[citation:4]"}
+
+data: {"type": "text", "msg": "[](@mark_underline=26)"}
+
+data: {"type": "text", "msg": "[](@mark_underline=27)"}
+
+data: {"type": "text", "msg": "[citation:7]"}
+
+data: {"type": "text", "msg": "[](@mark_underline=28)"}
+
+data: {"type": "text", "msg": "[](@mark_underline=29)"}
+
+data: {"type": "text", "msg": "[citation:9]"}
+
+data: {"type": "text", "msg": "[](@mark_underline=30)"}
+
+data: {"type": "text", "msg": "\n\n---\n\n###"}
+
+data: {"type": "text", "msg": " 一句话选型"}
+
+data: {"type": "text", "msg": "\n"}
+
+data: {"type": "text", "msg": "- **"}
+
+data: {"type": "text", "msg": "卖"}
+
+data: {"type": "text", "msg": "货"}
+
+data: {"type": "text", "msg": "给"}
+
+data: {"type": "text", "msg": "海外"}
+
+data: {"type": "text", "msg": "终端"}
+
+data: {"type": "text", "msg": "消费者"}
+
+data: {"type": "text", "msg": "**"}
+
+data: {"type": "text", "msg": " → Shop"}
+
+data: {"type": "text", "msg": "ify  "}
+
+data: {"type": "text", "msg": "\n- **"}
+
+data: {"type": "text", "msg": "[](@mark_underline=31)"}
+
+data: {"type": "text", "msg": "接"}
+
+data: {"type": "text", "msg": "询"}
+
+data: {"type": "text", "msg": "盘、"}
+
+data: {"type": "text", "msg": "做外贸工厂"}
+
+data: {"type": "text", "msg": "/B"}
+
+data: {"type": "text", "msg": "2B**"}
+
+data: {"type": "text", "msg": " → U"}
+
+data: {"type": "text", "msg": "eeshop  \n"}
+
+data: {"type": "text", "msg": "- **靠"}
+
+data: {"type": "text", "msg": " SEO"}
+
+data: {"type": "text", "msg": "/"}
+
+data: {"type": "text", "msg": "内容/定制"}
+
+data: {"type": "text", "msg": "、"}
+
+data: {"type": "text", "msg": "有"}
+
+data: {"type": "text", "msg": "技术**"}
+
+data: {"type": "text", "msg": " → W"}
+
+data: {"type": "text", "msg": "ooCommerce  \n\n"}
+
+data: {"type": "text", "msg": "如果你愿意，"}
+
+data: {"type": "text", "msg": "我可以再"}
+
+data: {"type": "text", "msg": "给你一张"}
+
+data: {"type": "text", "msg": "「"}
+
+data: {"type": "text", "msg": "Shop"}
+
+data: {"type": "text", "msg": "ify / U"}
+
+data: {"type": "text", "msg": "eeshop /"}
+
+data: {"type": "text", "msg": " W"}
+
+data: {"type": "text", "msg": "ooCommerce /"}
+
+data: {"type": "text", "msg": " Big"}
+
+data: {"type": "text", "msg": "Commerce /"}
+
+data: {"type": "text", "msg": " SHOPLINE"}
+
+data: {"type": "text", "msg": "」"}
+
+data: {"type": "text", "msg": "的 202"}
+
+data: {"type": "text", "msg": "6 成本"}
+
+data: {"type": "text", "msg": "与"}
+
+data: {"type": "text", "msg": "功能"}
+
+data: {"type": "text", "msg": "对照"}
+
+data: {"type": "text", "msg": "表。"}
+
+data: {"type": "text", "msg": "[](@mark_underline=32)"}
+
+data: {"type": "text", "msg": "[](@mark_underline=33)"}
+
+data: {"type": "text", "msg": "\n\n[](@replace=bypass_15bde4353491ab72)\n"}
+
+data: {"type": "meta", "stopReason": "stop"}

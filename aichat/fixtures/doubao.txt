@@ -1,0 +1,740 @@
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 1, "patch_type": 1, "patch_value": {"content_block": [{"block_type": 10101, "block_id": "10467549352736258", "content": {"loading_block": {"scene": 2, "text_loading": {"text": "找到 2 篇资料", "icon_url": "https://lf3-static.bytednsdoc.com/obj/eden-cn/dvsm/ljhwZthlaukjlkulzlp/tool_icon/Search.png", "icon_url_dark": "https://lf3-static.bytednsdoc.com/obj/eden-cn/dvsm/ljhwZthlaukjlkulzlp/tool_icon/Search-1.png"}}}, "is_finish": false, "patch_type": 2}]}}]}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 1, "patch_type": 1, "patch_value": {"content_block": [{"block_type": 10101, "block_id": "10467549352736258", "content": {"loading_block": {"scene": 2, "text_loading": {"text": "找到 6 篇资料", "icon_url": "https://lf3-static.bytednsdoc.com/obj/eden-cn/dvsm/ljhwZthlaukjlkulzlp/tool_icon/Search.png", "icon_url_dark": "https://lf3-static.bytednsdoc.com/obj/eden-cn/dvsm/ljhwZthlaukjlkulzlp/tool_icon/Search-1.png"}}}, "is_finish": false, "patch_type": 2}]}}]}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 1, "patch_type": 1, "patch_value": {"content_block": [{"block_type": 10101, "block_id": "10467549352736258", "content": {"loading_block": {"scene": 2, "text_loading": {"text": "找到 6 篇资料", "icon_url": "https://lf3-static.bytednsdoc.com/obj/eden-cn/dvsm/ljhwZthlaukjlkulzlp/tool_icon/Search.png", "icon_url_dark": "https://lf3-static.bytednsdoc.com/obj/eden-cn/dvsm/ljhwZthlaukjlkulzlp/tool_icon/Search-1.png"}}}, "is_finish": false, "patch_type": 2}]}}]}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 1, "patch_type": 1, "patch_value": {"content_block": [{"block_type": 10101, "block_id": "10467549352736258", "content": {"loading_block": {"scene": 2, "text_loading": {"text": "找到 8 篇资料", "icon_url": "https://lf3-static.bytednsdoc.com/obj/eden-cn/dvsm/ljhwZthlaukjlkulzlp/tool_icon/Search.png", "icon_url_dark": "https://lf3-static.bytednsdoc.com/obj/eden-cn/dvsm/ljhwZthlaukjlkulzlp/tool_icon/Search-1.png"}}}, "is_finish": false, "patch_type": 2}]}}]}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 1, "patch_type": 1, "patch_value": {"content_block": [{"block_type": 10101, "block_id": "10467549352736258", "content": {"loading_block": {"scene": 2, "text_loading": {"text": "找到 12 篇资料", "icon_url": "https://lf3-static.bytednsdoc.com/obj/eden-cn/dvsm/ljhwZthlaukjlkulzlp/tool_icon/Search.png", "icon_url_dark": "https://lf3-static.bytednsdoc.com/obj/eden-cn/dvsm/ljhwZthlaukjlkulzlp/tool_icon/Search-1.png"}}}, "is_finish": false, "patch_type": 2}]}}]}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 1, "patch_type": 1, "patch_value": {"content_block": [{"block_type": 10101, "block_id": "10467549352736258", "content": {"loading_block": {"scene": 2, "text_loading": {"text": "找到 12 篇资料", "icon_url": "https://lf3-static.bytednsdoc.com/obj/eden-cn/dvsm/ljhwZthlaukjlkulzlp/tool_icon/Search.png", "icon_url_dark": "https://lf3-static.bytednsdoc.com/obj/eden-cn/dvsm/ljhwZthlaukjlkulzlp/tool_icon/Search-1.png"}}}, "is_finish": false, "patch_type": 2}]}}]}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 1, "patch_type": 1, "patch_value": {"content_block": [{"block_type": 10101, "block_id": "10467549352736258", "content": {"loading_block": {"scene": 2, "text_loading": {"text": "找到 14 篇资料", "icon_url": "https://lf3-static.bytednsdoc.com/obj/eden-cn/dvsm/ljhwZthlaukjlkulzlp/tool_icon/Search.png", "icon_url_dark": "https://lf3-static.bytednsdoc.com/obj/eden-cn/dvsm/ljhwZthlaukjlkulzlp/tool_icon/Search-1.png"}}}, "is_finish": false, "patch_type": 2}]}}]}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 1, "patch_type": 1, "patch_value": {"content_block": [{"block_type": 10101, "block_id": "10467549352736258", "content": {"loading_block": {"scene": 2, "text_loading": {"text": "找到 18 篇资料", "icon_url": "https://lf3-static.bytednsdoc.com/obj/eden-cn/dvsm/ljhwZthlaukjlkulzlp/tool_icon/Search.png", "icon_url_dark": "https://lf3-static.bytednsdoc.com/obj/eden-cn/dvsm/ljhwZthlaukjlkulzlp/tool_icon/Search-1.png"}}}, "is_finish": false, "patch_type": 2}]}}]}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 1, "patch_type": 1, "patch_value": {"content_block": [{"block_type": 10101, "block_id": "10467549352736258", "content": {"loading_block": {"scene": 2, "text_loading": {"icon_url": "https://lf3-static.bytednsdoc.com/obj/eden-cn/dvsm/ljhwZthlaukjlkulzlp/tool_icon/Search.png", "icon_url_dark": "https://lf3-static.bytednsdoc.com/obj/eden-cn/dvsm/ljhwZthlaukjlkulzlp/tool_icon/Search-1.png"}}}, "is_finish": true, "patch_type": 2}]}}]}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 1, "patch_type": 3, "patch_value": {"content_block": [{"block_type": 10101, "block_id": "10467549352736258", "content": {}, "is_finish": false, "patch_type": 2}]}}, {"patch_object": 3, "patch_type": 2, "patch_value": {"content_status": 100}}, {"patch_object": 1, "patch_type": 1, "patch_value": {"content_block": [{"block_type": 10025, "block_id": "10467549352869122", "content": {"search_query_result_block": {"summary": "搜索 3 个关键词，参考 17 篇资料", "queries": ["2026外贸独立站建站工具推荐三个 来源", "2026 best ecommerce website builder for dropshipping", "2026外贸建站平台评测 Shopify WooCommerce Shopline"], "results": [{"text_card": {"id": 10467549352807682, "title": "6 Best Website Builders of 2026 - Shopify", "url": "https://www.shopify.com/blog/best-website-builders?gad_source=2", "doc_id": "6282f5fa4982b0bb-fc2b143229f8b87d", "index": 1, "search_id": "2026101412272475CF495C5AFC13130353"}}, {"text_card": {"id": 10467549352808194, "title": "2026跨境电商趋势洞察:9大热门独立站建站平台全解析-雨果网", "url": "https://m.cifnews.com/article/182800", "doc_id": "f117d49aae7c5bc8-6449e35cd2bf04cc", "original_doc_rank": 1, "index": 2, "search_id": "2026101412272475CF495C5AFC13130353"}}, {"text_card": {"id": 10467549352808450, "title": "7 best dropshipping website builders of 2026", "url": "https://www.wix.com/blog/best-dropshipping-website-builders", "doc_id": "0eb566e2b9ec8c23-8dbac3fccf467513", "original_doc_rank": 2, "index": 3, "search_id": "2026101412272475CF495C5AFC13130353"}}, {"text_card": {"id": 10467549352808706, "title": "盘点2026最适合中国卖家的三大跨境独立站_中华网", "url": "https://hea.china.com/articles/20260327/202603271834605.html", "doc_id": "70c791ad6303bd61-5b470cfc3228aebd", "original_doc_rank": 3, "index": 4, "search_id": "2026101412272475CF495C5AFC13130353"}}, {"text_card": {"id": 10467549352808962, "title": "2026 年外贸独立站服务商怎么选？如今出海已成众多企业刚需，外贸独立站是对接海外采购商、打造自有品牌的核心阵地，但市面上建站方案差异巨大，自主定制建站、SaaS 模板站各有优劣，很多外贸老板分不清哪一种适配自身业务。今天给大家梳理三类主流建站方案服务商，分别适配中大型工贸集团、跨境零售商家、轻量品牌展示商户，方便大家精准匹配。 第一家：互诺科技  互诺科技创立于 2005 年，广州为总部，深圳分", "url": "https://www.iesdouyin.com/share/video/7688723800594801393", "doc_id": "7688723800594801393", "original_doc_rank": 4, "index": 5, "search_id": "2026101412272475CF495C5AFC13130353"}}, {"text_card": {"id": 10467549352809218, "title": "Best eCommerce Website Builders For 2026", "url": "https://www.selecthub.com/ecommerce/ecommerce-web-builders/", "doc_id": "9be48bca0f4e0032-f47e2719215d1447", "original_doc_rank": 5, "index": 6, "search_id": "2026101412272475CF495C5AFC13130353"}}, {"text_card": {"id": 10467549352820994, "title": "Best Ecommerce Platform for Dropshipping in 2026 - Ecommerce-Platforms.com", "url": "https://ecommerce-platforms.com/articles/best-ecommerce-platform-for-dropshipping", "doc_id": "b4753718691da0f0-15cd1ea2afbb8fb4", "original_doc_rank": 1, "index": 7, "search_id": "202610141227246FF42F36D463142F506A"}}, {"text_card": {"id": 10467549352821250, "title": "11 Best Ecommerce Platforms for Your Business in 2026 - Shopify", "url": "https://www.shopify.com/blog/best-ecommerce-platforms?e-page-22cec8a=2&e-page-711bfa1=3", "doc_id": "6d603dcfc4bb867f-01fb7d9554023fea", "original_doc_rank": 2, "index": 8, "search_id": "202610141227246FF42F36D463142F506A"}}, {"text_card": {"id": 10467549352821762, "title": "10 of the Best Ecommerce Platforms for Dropshipping (2026)", "url": "https://trueprofit.io/blog/ecommerce-platforms-for-dropshipping", "doc_id": "3a3c03a0bc0570aa-a56248373d150907", "original_doc_rank": 3, "index": 9, "search_id": "202610141227246FF42F36D463142F506A"}}, {"text_card": {"id": 10467549352822274, "title": "Shopify公布生态运行数据:年经济活动超1.2万亿 AI转化率高80%_亿邦动力", "url": "http://m.toutiao.com/group/7696362649520472618/", "doc_id": "b15a7217344fdbe3-bf5a171831780e16", "original_doc_rank": 4, "index": 10, "search_id": "202610141227246FF42F36D463142F506A"}}, {"text_card": {"id": 10467549352822530, "title": "2026년 이커머스 플랫폼 추천 BEST 6 - Shopify 대한민국", "url": "https://www.shopify.com/kr/blog/best-ecommerce-platforms", "doc_id": "38171d27260137b7-5ce83ea742eb9bb2", "original_doc_rank": 5, "index": 11, "search_id": "202610141227246FF42F36D463142F506A"}}, {"text_card": {"id": 10467549352823042, "title": "主流建站Shopify、Shopyy、Shopline、WordPress+Woocommerce，各自优缺点？小白优先选哪个？#跨境电商独立站 #独立站搭建 #独立站搭建流程 #外贸独立站 #外贸行", "url": "https://www.iesdouyin.com/share/video/7659465415768658532", "doc_id": "7659465415768658532", "index": 12, "search_id": "20261014122724426A6F0922551284683E"}}, {"text_card": {"id": 10467549352823298, "title": "独立站博主打死都不说的建站攻略！现在遍地的电商卖家，不管是干国内的，还是跨境的；东南亚的，还是欧美的，是个电商卖家，都在了解布局独立站 蜂拥而至、等着被割的小白新手，评论区各种“求带”“求割” 你们真", "url": "https://www.iesdouyin.com/share/video/7611115592925770090", "doc_id": "7611115592925770090", "original_doc_rank": 1, "index": 13, "search_id": "20261014122724426A6F0922551284683E"}}, {"text_card": {"id": 10467549352823554, "title": "外贸独立站建站工具对比分析。若你想「快速赚快钱」，选Shopify；  若你想「规模化增长」，选Shopify Plus；  若你想「做自己的平台」，选WooCommerce。  外贸独立站的本质是「", "url": "https://www.iesdouyin.com/share/video/7602996236257620197", "doc_id": "7602996236257620197", "original_doc_rank": 2, "index": 14, "search_id": "20261014122724426A6F0922551284683E"}}, {"text_card": {"id": 10467549352823810, "title": "深入对比Shopify和WooCommerce哪一个是更好的跨境独立站建站平台#独立站  #独立站shopify  #woocommerce建站  #wordpress建站  #外贸独立站 ", "url": "https://www.iesdouyin.com/share/video/7379287169732545819", "doc_id": "7379287169732545819", "original_doc_rank": 3, "index": 15, "search_id": "20261014122724426A6F0922551284683E"}}, {"text_card": {"id": 10467549352824066, "title": "独立站Shopify还是WooComme。做跨境独立站，Shopify和WooCommerce是绕不开的两个选项。但很多人比价格比了半天，还是选错。因为两者本质不同：一个是租精装房，一个是自己盖楼。\n", "url": "https://www.iesdouyin.com/share/video/7688012031642881330", "doc_id": "7688012031642881330", "original_doc_rank": 4, "index": 16, "search_id": "20261014122724426A6F0922551284683E"}}, {"text_card": {"id": 10467549352824322, "title": "关于 Shopify", "url": "https://zh.shopify.com/about", "doc_id": "cb4fa25c4e98fe82-a29d32298689f866", "original_doc_rank": 5, "index": 17, "search_id": "20261014122724426A6F0922551284683E"}}], "icon_url": "https://lf3-static.bytednsdoc.com/obj/eden-cn/dvsm/ljhwZthlaukjlkulzlp/tool_icon/Search.png", "icon_url_dark": "https://lf3-static.bytednsdoc.com/obj/eden-cn/dvsm/ljhwZthlaukjlkulzlp/tool_icon/Search-1.png", "scene": 2, "search_type": 1, "extend_fields": {"thinking_idx": 3}}}, "is_finish": true, "patch_type": 2}]}}, {"patch_object": 50, "patch_type": 1, "patch_value": {"ext": {"before_content_type": "1", "req_id": "2026101412272196CFD4BEC793AA10B23F"}}}]}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 1, "patch_type": 1, "patch_value": {"content_block": [{"block_type": 10000, "block_id": "10467549352869378", "content": {"text_block": {"text": "#"}}, "is_finish": false, "patch_type": 1}]}}, {"patch_object": 50, "patch_type": 1, "patch_value": {"ext": {"msg_scene": "rv_two_col", "perf_mark": "{\"marks\":[{\"ev_name\":\"answer_first_token\",\"ev_type\":\"query_duration\"}]}", "review_scenario_id": "4085066754", "tea_tags_time_cost": "{\"ack_cost_time\":\"217\",\"agent_id\":\"19457456070409730\",\"agent_name\":\"豆包\",\"first_packet_cost_time\":\"5049\",\"llm_intention\":\"browsing\",\"llm_intention_detail\":\"complex_browsing\"}", "is_pro": "0"}}}]}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "#"}}]}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 1, "patch_type": 1, "patch_value": {"content_block": [{"block_type": 10000, "block_id": "10467549352869378", "content": {"text_block": {"text": " "}}, "is_finish": false, "patch_type": 1}]}}]}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": " "}}]}
+
+event: CHUNK_DELTA
+data: {"text": "2"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "2"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "0"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "0"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "2"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "2"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "6"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "6"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "外贸"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "外贸"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "独立"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "独立"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "站3个建站工具推荐"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "站3个建站工具推荐"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "（附带来源）\n##"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "（附带来源）\n##"}}]}
+
+event: CHUNK_DELTA
+data: {"text": " 1. Shopify（S"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": " 1. Shopify（S"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "aaS，DTC零售首选"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "aaS，DTC零售首选"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "）\n**核心优势**"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "）\n**核心优势**"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "：全球最成熟一站式S"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "：全球最成熟一站式S"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "aaS外贸建站，拖拽零"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "aaS外贸建站，拖拽零"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "代码，海量模板，应用"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "代码，海量模板，应用"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "市场8000+"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "市场8000+"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "插件，自带多币种、"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "插件，自带多币种、"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "海外支付、物流、广告"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "海外支付、物流、广告"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "转化工具；202"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "转化工具；202"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "6新增AI助手Sidekick"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "6新增AI助手Sidekick"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "，可自动写产品文案"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "，可自动写产品文案"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "、店铺优化，服务器、"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "、店铺优化，服务器、"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "安全、CDN全部托管"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "安全、CDN全部托管"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "，几天就能上线，适合"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "，几天就能上线，适合"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "外贸B2C、D"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "外贸B2C、D"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "TC品牌、社媒测"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "TC品牌、社媒测"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "品卖家"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "品卖家"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "。\n**缺点**："}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "。\n**缺点**："}}]}
+
+event: CHUNK_DELTA
+data: {"text": "订阅费+第三方支付有"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "订阅费+第三方支付有"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "交易手续费，高级插件大多"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "交易手续费，高级插件大多"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "付费；平台有风控，"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "付费；平台有风控，"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "违规存在店铺限制风险。"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "违规存在店铺限制风险。"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "\n**来源**：雨果"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "\n**来源**：雨果"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "跨境《2026"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "跨境《2026"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "跨境电商趋势洞察:9"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "跨境电商趋势洞察:9"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "大热门独立站建站平台"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "大热门独立站建站平台"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "全解析》，Shopify"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "全解析》，Shopify"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "官方博客《11 Best"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "官方博客《11 Best"}}]}
+
+event: CHUNK_DELTA
+data: {"text": " Ecommerce Platforms for Your"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": " Ecommerce Platforms for Your"}}]}
+
+event: CHUNK_DELTA
+data: {"text": " Business in 202"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": " Business in 202"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "6》"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "6》"}}]}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 1, "patch_type": 1, "patch_value": {"content_block": [{"block_type": 10000, "block_id": "10467549352869378", "content": {"text_block": {}}, "meta_info": [{"type": 2, "info": "{\"insert_text\":\"(Shopify)\",\"pos\":[790],\"url\":\"https://www.shopify.com/blog/best-ecommerce-platforms?e-page-22cec8a=2&e-page-711bfa1=3&f_link_type=f_linkinlinenote&flow_extra=eyJkb2NfcG9zaXRpb24iOjAsImRvY19pZCI6IjZkNjAzZGNmYzRiYjg2N2YtMDFmYjdkOTU1NDAyM2ZlYSIsImlubGluZV9kaXNwbGF5X3Bvc2l0aW9uIjowfQ%3D%3D\",\"quota_type\":2,\"icon\":\"https://p11-spider-image-sign.byteimg.com/isp-i18n-media/img/dff0408efdf99ebbdb5ff8d063185885~tplv-e9ol9do63j-thumbnail.jpeg?rk3s=feb11e32&x-expires=1797136045&x-signature=L6Vgh0ScgLj28TDwZmJjGcg3pQg%3D\",\"title\":\"11 Best Ecommerce Platforms for Your Business in 2026 - Shopify\",\"summary\":\"## The 11 best \",\"website_name\":\"Shopify\",\"doc_id\":\"6d603dcfc4bb867f-01fb7d9554023fea\",\"authority\":\"field_matched_site\"}"}], "is_finish": false, "patch_type": 1}]}}]}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 1, "patch_type": 1, "patch_value": {"content_block": [{"block_type": 10000, "block_id": "10467549352869378", "content": {"text_block": {"text": "\n\n## 2. Woo"}}, "is_finish": false, "patch_type": 1}]}}]}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "\n\n## 2. Woo"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "Commerce（WordPress开源插件"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "Commerce（WordPress开源插件"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "，B端外贸/长期"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "，B端外贸/长期"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "SEO首选）\n**核心"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "SEO首选）\n**核心"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "优势**：开源免费电商"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "优势**：开源免费电商"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "插件，搭配WordPress使用"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "插件，搭配WordPress使用"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "；网站源码、客户数据"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "；网站源码、客户数据"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "完全归自己，无平台"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "完全归自己，无平台"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "交易抽成，SEO拓展"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "交易抽成，SEO拓展"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "能力极强，高度自定义，"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "能力极强，高度自定义，"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "适合工厂B端外贸、"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "适合工厂B端外贸、"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "做谷歌自然流量、有"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "做谷歌自然流量、有"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "技术/外包团队的商家"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "技术/外包团队的商家"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "，可搭建产品展厅、"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "，可搭建产品展厅、"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "批发询盘+零售混合"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "批发询盘+零售混合"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "站点"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "站点"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "。\n**缺点**："}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "。\n**缺点**："}}]}
+
+event: CHUNK_DELTA
+data: {"text": "软件免费，但域名、主机"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "软件免费，但域名、主机"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "、SSL、安全维护、"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "、SSL、安全维护、"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "插件全部自行负责；插件"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "插件全部自行负责；插件"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "容易冲突，需要技术人员"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "容易冲突，需要技术人员"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "定期维护，上手门槛高"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "定期维护，上手门槛高"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "。\n**来源**："}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "。\n**来源**："}}]}
+
+event: CHUNK_DELTA
+data: {"text": "雨果跨境《202"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "雨果跨境《202"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "6跨境电商趋势洞察:"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "6跨境电商趋势洞察:"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "9大热门独立站建站"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "9大热门独立站建站"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "平台全解析》、E"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "平台全解析》、E"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "commerce-Platforms《Best"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "commerce-Platforms《Best"}}]}
+
+event: CHUNK_DELTA
+data: {"text": " Ecommerce Platform for Dropshi"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": " Ecommerce Platform for Dropshi"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "pping in 202"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "pping in 202"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "6》"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "6》"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "\n\n## 3. "}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "\n\n## 3. "}}]}
+
+event: CHUNK_DELTA
+data: {"text": "2Cshop（国产S"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "2Cshop（国产S"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "aaS，国内中小工贸卖家"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "aaS，国内中小工贸卖家"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "友好）\n**核心优势"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "友好）\n**核心优势"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "**：国内出海SaaS"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "**：国内出海SaaS"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "建站平台，全中文后台"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "建站平台，全中文后台"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "，**终身无交易抽"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "，**终身无交易抽"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "成**，营销、物流"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "成**，营销、物流"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "、SEO插件免费；自带"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "、SEO插件免费；自带"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "多语言、多货币、"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "多语言、多货币、"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "全球CDN加速，支持"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "全球CDN加速，支持"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "1688商品一键"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "1688商品一键"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "迁移，询盘、小额"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "迁移，询盘、小额"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "批发功能原生支持，客服"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "批发功能原生支持，客服"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "中文快速响应，封店"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "中文快速响应，封店"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "风险低，适合工厂、"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "风险低，适合工厂、"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "工贸一体、预算有限的"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "工贸一体、预算有限的"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "中小外贸卖家"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "中小外贸卖家"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "。\n**缺点**："}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "。\n**缺点**："}}]}
+
+event: CHUNK_DELTA
+data: {"text": "海外应用生态不如Shopify"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "海外应用生态不如Shopify"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "丰富，面向超大品牌深度"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "丰富，面向超大品牌深度"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "定制能力有限。\n**"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "定制能力有限。\n**"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "来源**：中华网《"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "来源**：中华网《"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "盘点2026最"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "盘点2026最"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "适合中国卖家的三大跨境"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "适合中国卖家的三大跨境"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "独立站》"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "独立站》"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "\n\n---\n### 快速"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "\n\n---\n### 快速"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "选型建议\n- 外贸"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "选型建议\n- 外贸"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "B2C、快速测"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "B2C、快速测"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "款、无技术团队 →"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "款、无技术团队 →"}}]}
+
+event: CHUNK_DELTA
+data: {"text": " Shopify\n- B端工厂"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": " Shopify\n- B端工厂"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "询盘、看重谷歌SEO"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "询盘、看重谷歌SEO"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "、自有技术人员 → Woo"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "、自有技术人员 → Woo"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "Commerce\n- 工贸一体"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "Commerce\n- 工贸一体"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "、预算有限、想要中文"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "、预算有限、想要中文"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "后台零交易佣金 → "}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "后台零交易佣金 → "}}]}
+
+event: CHUNK_DELTA
+data: {"text": "2Cshop\n\n如果你需要"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "2Cshop\n\n如果你需要"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "，我可以把这3"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "，我可以把这3"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "个平台的价格、支付"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "个平台的价格、支付"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "、服务器稳定性整理成对比"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "、服务器稳定性整理成对比"}}]}
+
+event: CHUNK_DELTA
+data: {"text": "表格。"}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 111, "patch_type": 1, "patch_value": {"tts_content": "表格。"}}]}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 1, "patch_type": 1, "patch_value": {"content_block": [{"block_type": 10000, "block_id": "10467549352869378", "content": {"text_block": {}}, "is_finish": true, "patch_type": 1}]}}]}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 3, "patch_type": 2, "patch_value": {}}, {"patch_object": 50, "patch_type": 1, "patch_value": {"ext": {"perf_mark": "{\"marks\":[{\"ev_name\":\"task_finish\",\"ev_type\":\"query_duration\"}]}", "is_finish": "1"}}}]}
+
+event: SSE_REPLY_END
+data: {"end_type": 1}
+
+event: SSE_REPLY_END
+data: {"end_type": 2}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 50, "patch_type": 1, "patch_value": {"ext": {"has_suggest": "1", "sp_v2": "[{\"suggest_type\":1,\"content\":\" 如何使用Shopify建站？\",\"icon_url\":\"\",\"icon_uri\":\"\",\"click_url\":\"\",\"bot_id\":\"\",\"dark_icon_url\":\"\"}]", "tea_tags_time_cost": "{\"agent_id\":\"\",\"agent_name\":\"\",\"llm_intention\":\"browsing\",\"llm_intention_detail\":\"complex_browsing\"}"}}}]}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 50, "patch_type": 1, "patch_value": {"ext": {"has_suggest": "1", "sp_v2": "[{\"suggest_type\":1,\"content\":\" 如何使用Shopify建站？\",\"icon_url\":\"\",\"icon_uri\":\"\",\"click_url\":\"\",\"bot_id\":\"\",\"dark_icon_url\":\"\"},{\"suggest_type\":1,\"content\":\" 外贸独立站建站工具的选择标准有哪些？\",\"icon_url\":\"\",\"icon_uri\":\"\",\"click_url\":\"\",\"bot_id\":\"\",\"dark_icon_url\":\"\"}]"}}}]}
+
+event: STREAM_CHUNK
+data: {"patch_op": [{"patch_object": 50, "patch_type": 1, "patch_value": {"ext": {"has_suggest": "1", "sp_v2": "[{\"suggest_type\":1,\"content\":\" 如何使用Shopify建站？\",\"icon_url\":\"\",\"icon_uri\":\"\",\"click_url\":\"\",\"bot_id\":\"\",\"dark_icon_url\":\"\"},{\"suggest_type\":1,\"content\":\" 外贸独立站建站工具的选择标准有哪些？\",\"icon_url\":\"\",\"icon_uri\":\"\",\"click_url\":\"\",\"bot_id\":\"\",\"dark_icon_url\":\"\"},{\"suggest_type\":1,\"content\":\" 如何选择适合自己的外贸独立站模板？\",\"icon_url\":\"\",\"icon_uri\":\"\",\"click_url\":\"\",\"bot_id\":\"\",\"dark_icon_url\":\"\"}]"}}}]}
+
+event: SSE_REPLY_END
+data: {"end_type": 3}

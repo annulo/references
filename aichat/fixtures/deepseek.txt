@@ -1,0 +1,193 @@
+event: ready
+data: {"request_message_id":1,"response_message_id":2,"model_type":"default"}
+
+event: update_session
+data: {"updated_at":1791951392.689813}
+
+data: {"v":{"response":{"message_id":2,"parent_id":1,"model":"","role":"ASSISTANT","thinking_enabled":false,"ban_edit":false,"ban_regenerate":false,"status":"WIP","incomplete_message":null,"accumulated_token_usage":0,"feedback":null,"inserted_at":1791951392.679488,"search_enabled":true,"fragments":[{"id":2,"type":"SEARCH","status":"WIP","content":null,"queries":[{"query":"Shopify 是什么"},{"query":"site:shopify.com about Shopify"}],"results":[]}],"conversation_mode":"DEFAULT","has_pending_fragment":false,"auto_continue":false,"search_triggered":true,"extra_search_providers":[]}}}
+
+data: {"p":"response/fragments/-1/results","v":[{"url":"https://www.shopify.com/sg/faq?hubs_content-cta=-white&hubs_content=www.hubspot.fr%2Fproducts%2Fservice%2Ffaq-software&hubs_post-cta=fr-blog-image","title":"Shopify 常见问题解答","snippet":"开始使用 Shopify Shopify 是一个一站式商务平台，可帮助您启动、壮大和管理业务。 创建并自定义在线商店 ... Shopify 完全基于云端并提供托管服务，这意味着您无需操心软件或 Web 服务器的升级与维护。只需连接网络...","cite_index":1,"published_at":null,"site_icon":"https://cdn.deepseek.com/site-icons/shopify.com","site_name":"Shopify","query_indexes":[0],"provider":null},{"url":"https://www.shopify.com/news/about-us?query=success+stories&e-page-34222331=2","title":"About us","snippet":"Shopify creates the best commerce tools for anyone, anywhere, to start and grow a business. Shopify provides essential internet infrastructure for commerce. Shopify’s all-in-one platform makes it easier to start, run, and grow a business, powering sales online, in store, and everywhere in between.","cite_index":2,"published_at":null,"site_icon":"https://cdn.deepseek.com/site-icons/shopify.com","site_name":"Shopify","query_indexes":[1],"provider":null},{"url":"https://www.shopify.com/zh/blog/what-is-shopify?country=us&lang=zh-Hans#1","title":"什么是Shopify，它又是如何运作的? (2025) - Shopify 中国 - 立即使用 Shopify 开展销售","snippet":"Shopify是一个完整的商业平台，任何人都可以通过它创建、管理和发展业务。你可以使用Shopify创建在线商店、管理销售、营销客户，并接受数字和实体支付 ... Shopify是一个一体化的商务平台和丰富的生态系统，连接卖家、开发者、商业专家和购物者，共同追求为每个人提供更好的商务服务。","cite_index":3,"published_at":1727971200.0,"site_icon":"https://cdn.deepseek.com/site-icons/shopify.com","site_name":"Shopify","query_indexes":[0,1],"provider":null},{"url":"https://www.shopify.com/tw/about","title":"關於 Shopify","snippet":"Shopify 為全球數百萬商家提供支援 全方位的商務平台，協助商家創立、經營和發展業務。 Shopify 品牌故事 ## 首家 Shopify 商店由我們自營 ... 從創立商家、經營管理到發展業務，我們簡化相關流程，讓步驟更容易上手，協助人們獨當一面自行開店。我們相信...","cite_index":4,"published_at":null,"site_icon":"https://cdn.deepseek.com/site-icons/shopify.com","site_name":"Shopify","query_indexes":[1],"provider":null},{"url":"https://www.shopify.com/hk/faq?hubs_content%3Dblog.hubspot.com%2Fservice%2Fbest-contact-us-pages%26hubs_content-cta%3DFAQ%2520links=undefined","title":"Shopify 常見問題","snippet":"Shopify 是什麼？如何運作？ Shopify 是功能齊全的商務平台，可讓您創立事業並拓展和管理業務。 建立和自訂網路商店 在多個地點銷售，包括網站、行動裝置、社群媒體、線上市集、實體店面地點和快閃店","cite_index":5,"published_at":null,"site_icon":"https://cdn.deepseek.com/site-icons/shopify.com","site_name":"Shopify","query_indexes":[0],"provider":null},{"url":"https://www.shopify.com/sg/blog/what-is-shopify#1","title":"What Is Shopify and How Does It Work? (2026) - Shopify Singapore - Every day, millions of people use Shopify to power their businesses","snippet":"Shopify is a commerce platform that helps you sell online and in person. Entrepreneurs, retailers, and global brands use Shopify to make sales, run stores, and grow their businesses. With Shopify, you can create your first ecommerce website or manage a world-leading retail business.","cite_index":6,"published_at":1765728000.0,"site_icon":"https://cdn.deepseek.com/site-icons/shopify.com","site_name":"Shopify","query_indexes":[1],"provider":null},{"url":"https://www.shopify.com/mx/ppc/sell?country=mx&lang=zh","title":"使用 Shopify 在线销售任意产品","snippet":"Shopify 是一站式商务平台，旨在帮助您建立和管理在线商店，并推动业务增长。通过 Shopify，您可以：创建和自定义您的商店，而无需掌握编码技能；通过多种渠道销售产品和服务，包括网页端、移动端、社交媒体、实体店和快闪店等...","cite_index":8,"published_at":null,"site_icon":"https://cdn.deepseek.com/site-icons/shopify.com","site_name":"Shopify","query_indexes":[1],"provider":null},{"url":"https://m.36kr.com/p/2611529942571400#1","title":"欧美电商龙二Shopify：看似“淘宝”，实是“支付宝”-36氪","snippet":"欧美电商龙二Shopify ... 海豚投研目前的认知是：“面子上”Shopify是一家提供独立站线上运营所需的功能的类电商平台，这个角度其主要竞争对手是亚马逊；但“骨子里”，Shopify更多是一家以店铺搭建和运营SaaS工具为获客渠道，并以支付为真正核心变现渠道的公司，其内核更多是一家金融支付公司。","cite_index":9,"published_at":1705852800.0,"site_icon":"https://cdn.deepseek.com/site-icons/36kr.com","site_name":"36kr","query_indexes":[0],"provider":null},{"url":"https://www.shopify.com/news/company-info?prev_msid=ac1342d2-55A0-4A15-4588-6CA1F13DEB4A#1","title":"Company Info - Shopify creates the best commerce tools for anyone, anywhere, to start and grow a business.","snippet":"Shopify creates the best commerce tools for anyone, anywhere, to start and grow a business. Shopify is the leading global commerce company that provides essential internet infrastructure for commerce, offering trusted tools to start ... and run a retail business of any size. Shopify makes commerce better for ... Shopify powers millions of businesses in more than 175 countries","cite_index":10,"published_at":null,"site_icon":"https://cdn.deepseek.com/site-icons/shopify.com","site_name":"Shopify","query_indexes":[1],"provider":null},{"url":"https://www.tmtpost.com/5848990.html?rss=souhu#1","title":"Shopify悄然登上北美电商第二把交椅，独立站是制胜“法宝”？","snippet":"Shopify最初定位是一款专为中小型商家（SMBs）提供SaaS服务的电商建站工具，即Shopify为电商卖家提供搭建网店的技术和模板，包括订单追踪、自动化库存管理、上传图片、添加标签等基础功能。通过Shopify...","cite_index":11,"published_at":1636560000.0,"site_icon":"https://cdn.deepseek.com/site-icons/tmtpost.com","site_name":"钛媒体","query_indexes":[0],"provider":null},{"url":"https://www.shopify.com/fr/a-propos-de-nous?hubs_content=blog.hubspot.com/marketing/future-content-marketing&hubs_content-cta=Blog#1","title":"Tout sur Shopify - À propos de nous","snippet":"La plateforme de commerce tout-en-un pour démarrer, gérer et développer une entreprise. L’histoire de Shopify ... Nous aidons les entrepreneurs à gagner leur indépendance en facilitant les processus de mise en marche, de gestion et de développement d’une entreprise.","cite_index":12,"published_at":null,"site_icon":"https://cdn.deepseek.com/site-icons/shopify.com","site_name":"Shopify","query_indexes":[1],"provider":null}]}
+
+data: {"p":"response/fragments/-1","o":"BATCH","v":[{"p":"status","v":"FINISHED"},{"p":"content","v":"搜索到 11 个网页"}]}
+
+data: {"p":"response/conversation_mode","o":"SET","v":"SEARCH"}
+
+data: {"p":"response/has_pending_fragment","v":true}
+
+data: {"p":"response","o":"BATCH","v":[{"p":"fragments","o":"APPEND","v":[{"id":3,"type":"RESPONSE","content":"Shop","references":[],"stage_id":2}]},{"p":"has_pending_fragment","o":"SET","v":false}]}
+
+data: {"p":"response/fragments/-1/content","o":"APPEND","v":"ify"}
+
+data: {"v":" "}
+
+data: {"v":"是一个"}
+
+data: {"v":"一站式"}
+
+data: {"v":"商务"}
+
+data: {"v":"平台"}
+
+data: {"v":"，"}
+
+data: {"v":"帮助"}
+
+data: {"v":"任何人"}
+
+data: {"v":"创建"}
+
+data: {"v":"、"}
+
+data: {"v":"管理"}
+
+data: {"v":"和发展"}
+
+data: {"v":"业务"}
+
+data: {"v":"，"}
+
+data: {"v":"并在"}
+
+data: {"v":"线上"}
+
+data: {"v":"、"}
+
+data: {"v":"实体"}
+
+data: {"v":"店"}
+
+data: {"v":"及"}
+
+data: {"v":"社交媒体"}
+
+data: {"v":"等多"}
+
+data: {"v":"渠道"}
+
+data: {"v":"进行"}
+
+data: {"v":"销售"}
+
+data: {"v":"[citation:1]"}
+
+data: {"v":"[citation:3]"}
+
+data: {"v":"。"}
+
+data: {"v":"它"}
+
+data: {"v":"完全"}
+
+data: {"v":"基于"}
+
+data: {"v":"云端"}
+
+data: {"v":"托管"}
+
+data: {"v":"，"}
+
+data: {"v":"无需"}
+
+data: {"v":"操心"}
+
+data: {"v":"服务器"}
+
+data: {"v":"维护"}
+
+data: {"v":"，"}
+
+data: {"v":"商家"}
+
+data: {"v":"可以"}
+
+data: {"v":"随时随地"}
+
+data: {"v":"通过"}
+
+data: {"v":"兼容"}
+
+data: {"v":"设备"}
+
+data: {"v":"安全"}
+
+data: {"v":"地"}
+
+data: {"v":"访问"}
+
+data: {"v":"和"}
+
+data: {"v":"运营"}
+
+data: {"v":"自己的"}
+
+data: {"v":"商店"}
+
+data: {"v":"[citation:1]"}
+
+data: {"v":"[citation:5]"}
+
+data: {"v":"。\n\n"}
+
+data: {"v":"**"}
+
+data: {"v":"来源"}
+
+data: {"v":"**"}
+
+data: {"v":"："}
+
+data: {"v":"Shop"}
+
+data: {"v":"ify"}
+
+data: {"v":" "}
+
+data: {"v":"官方"}
+
+data: {"v":" FAQ"}
+
+data: {"v":"（"}
+
+data: {"v":"shop"}
+
+data: {"v":"ify"}
+
+data: {"v":".com"}
+
+data: {"v":"）"}
+
+data: {"v":"及"}
+
+data: {"v":" Shopify"}
+
+data: {"v":" "}
+
+data: {"v":"官方"}
+
+data: {"v":"博客"}
+
+data: {"v":"“"}
+
+data: {"v":"什么是"}
+
+data: {"v":" Shopify"}
+
+data: {"v":"”"}
+
+data: {"v":"[citation:1]"}
+
+data: {"v":"[citation:3]"}
+
+data: {"p":"response","o":"BATCH","v":[{"p":"accumulated_token_usage","v":125},{"p":"quasi_status","v":"FINISHED"}]}
+
+data: {"p":"response/status","o":"SET","v":"FINISHED"}
+
+event: update_session
+data: {"updated_at":1791951394.301255}
+
+event: title
+data: {"content":"Shopify简介及来源"}
+
+event: close
+data: {"click_behavior":"none","auto_resume":false}
+
