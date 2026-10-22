@@ -12,6 +12,7 @@ When a copied reference breaks, check here first: `main` is always the latest, s
 | Reference | What it does | Last verified |
 |---|---|---|
 | [aichat](aichat/) | Ask ChatGPT, DeepSeek, Doubao, Kimi and Yuanbao on their websites and get the answer, cited pages and search queries | 2026-10-14 |
+| [serp](serp/) | Search Google and get the top 10 organic results with each site's type (B2B platform, marketplace, forum, social, encyclopedia) | 2026-10-22 |
 
 ## Layout
 
